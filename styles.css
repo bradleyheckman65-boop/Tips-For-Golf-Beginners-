@@ -1,0 +1,55 @@
+/* Background styling */
+body {
+background-color: #e8f5e9;
+font-family: Arial, sans-serif;
+margin: 20px;
+}
+
+/* Header styling */
+header {
+background-color: #2e7d32;
+color: white;
+text-align: center;
+padding: 20px;
+}
+
+/* Navigation list styling */
+ul {
+list-style-type: square;
+}
+
+/* Table styling */
+table {
+border-collapse: collapse;
+width: 70%;
+margin-top: 20px;
+}
+
+th {
+background-color: #1b5e20;
+color: white;
+padding: 10px;
+}
+
+td {
+border: 1px solid black;
+padding: 10px;
+}
+
+/* Section styling */
+section {
+margin-top: 20px;
+}
+
+/* Aside styling */
+aside {
+background-color: #c8e6c9;
+padding: 10px;
+margin-top: 20px;
+}
+
+/* Footer styling */
+footer {
+margin-top: 40px;
+text-align: center;
+}
